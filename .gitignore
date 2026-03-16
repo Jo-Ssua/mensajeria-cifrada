@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Entorno virtual
+venv/
+.venv/
+env/
+ENV/
+
+# Llaves privadas
+private_key.pem
+keys/private_key.pem
+
+# Configuración local (contiene IPs y puertos)
+config/config.ini
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+
